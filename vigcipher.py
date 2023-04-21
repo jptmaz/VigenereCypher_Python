@@ -1,3 +1,7 @@
+# This program was originally created on the 5th of April 2023, original file can be viewed on the FIRST-YEAR-SECOND-SEMESTER-OOP-BSCPE1-4-MAZAREDO
+
+
+
 def vigenere_cipher():
     alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     message = ""
