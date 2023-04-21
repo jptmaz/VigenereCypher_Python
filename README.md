@@ -1,4 +1,4 @@
-# DECRYPTION PROGRAM PYTHON
+# VIGENERE CIPHER PYTHON
 
 *This is a Python program that asks a user for a message and a keyword that then turns it into a cipher text using the Vigenere Cipher.
 
